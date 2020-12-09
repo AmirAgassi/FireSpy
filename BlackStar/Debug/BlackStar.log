@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(16,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Admin\Desktop\BlackStar\BlackStar\pch.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(255,13): warning C4101: 'i': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(297,13): warning C4101: 'i': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(316,14): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(426,23): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(427,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(428,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(429,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(430,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(424,18): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(444,23): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(446,29): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(448,29): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(442,18): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(59): warning C4715: 'memory::scan': not all control paths return a value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(287): warning C4715: 'calculate_size': not all control paths return a value
+  BlackStar.vcxproj -> C:\Users\Admin\Desktop\BlackStar\Debug\BlackStar.dll

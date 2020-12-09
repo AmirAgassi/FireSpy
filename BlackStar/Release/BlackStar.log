@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(16,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Admin\Desktop\BlackStar\BlackStar\pch.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(258,13): warning C4101: 'i': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(277,14): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(468,23): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(469,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(470,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(471,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(472,27): warning C4309: '=': truncation of constant value
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(466,18): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(488,18): warning C4101: 'b': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Admin\Desktop\BlackStar\BlackStar\dllmain.cpp(59): warning C4715: 'memory::scan': not all control paths return a value
+  All 141 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BlackStar.vcxproj -> C:\Users\Admin\Desktop\BlackStar\Release\BlackStar.dll
